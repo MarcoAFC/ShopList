@@ -10,7 +10,7 @@
 
 ## About the project
 
-This project aims to implement a Flutter application to assist in building a simple shopping list
+This project aims to implement a hybrid mobile application for Android/iOS to assist in building a simple shopping list
 with automatic calculation regarding partial cost per item and total cost of the purchase,
 allowing quick and effective viability analysis when at the market.
 
@@ -20,3 +20,8 @@ of the general idea and to allow anyone interested to take a look at how it work
 ## Goal
 
 Learning and applying useful Flutter concepts while developing a ready-to-use tool for daily life.
+
+## Built With
+
+* [Flutter](flutter.dev) - Mobile development framework.
+* [Dart](dart.dev) - Language used in Flutter to write the code.
