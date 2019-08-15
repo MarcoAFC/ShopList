@@ -10,11 +10,11 @@
 
 ## About the project
 
-This project aims to implement a Flutter application to allow building a simple shopping list
+This project aims to implement a Flutter application to assist in building a simple shopping list
 with automatic calculation regarding partial cost per item and total cost of the purchase,
 allowing quick and effective viability analysis when at the market.
 
-It is the first part of the CookBook project and is released as a public repository for propagation
+It is the **first part of the CookBook project** and is released as a public repository for propagation
 of the general idea and to allow anyone interested to take a look at how it works.
 
 ## Goal
